@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 32px;
+
+    }
+
+    .header p {
+        font-size: 16px;
+    }
+
+    .container .card-header {
+        font-size: 16px;
+    }
+
+    .container .card-header {
+        font-size: 16px;
+    }
+
+    .container .code-block {
+        font-size: 12px;
+    }
+
+    .container .code-grid {
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .container .code-card {
+        width: 100%;
+    }
+
+
+
+}
